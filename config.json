@@ -1,6 +1,6 @@
 {
     "database": {
-        "host": "172.30.42.112",
+        "address": "mariadb.fraposo-dev.svc.cluster.local",
         "port": 3306,
         "user": "sensor",
         "password": "sensorpassword",
